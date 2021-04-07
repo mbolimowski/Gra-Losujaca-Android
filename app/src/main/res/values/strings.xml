@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GraLosującaJava</string>
+    <string name="title_activity_launcher">LauncherActivity</string>
+    <string name="title_activity_ranking">RankingActivity</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="login">Loguj</string>
+    <string name="password">Hasło</string>
+    <string name="register">Rejestruj</string>
+    <string name="ranking">Ranking</string>
+    <string name="back">Wróć</string>
+</resources>
